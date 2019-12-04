@@ -1,8 +1,8 @@
-baseurl                  = "https://example.com/"           # Your domain name. Must end with "/"
+baseurl                  = "https://didacbigorda.com/"           # Your domain name. Must end with "/"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Call me Sam"
+title                    = "Didac Bigorda, Web Developer"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
@@ -11,9 +11,9 @@ pygmentsCodefences       = true
 [params]
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "sam.ico"
+    favicon              = ""
     homepage             = "main"                           # What to call the home page link
-    footerText           = "Didac Bigorda, Web Developer."
+    footerText           = "Personal blog dedicated to code, travel and bananas."
 
 # Metadata for Open Graph and Twitter
     description          = "Personal blog dedicated to code, travel and bananas"               # Max 160 characters show in search results

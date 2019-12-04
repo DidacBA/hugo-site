@@ -211,8 +211,9 @@ hr {
     #content li:last-child {
       margin-bottom: 1rem; }
   #content ul {
-    list-style: disc outside;
-    padding-left: 2rem; }
+    list-style: none;
+    padding-left: 2rem;
+    border-left: 2px solid #fff; }
   #content ol {
     list-style: decimal outside;
     padding-left: 2rem; }
