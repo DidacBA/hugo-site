@@ -1,4 +1,4 @@
-baseurl                  = ""           # Your domain name. Must end with "/"
+baseurl                  = "htps://didacbigorda.dev"           # Your domain name. Must end with "/"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -17,7 +17,7 @@ pygmentsCodefences       = true
 
 # Metadata for Open Graph and Twitter
     description          = "Personal blog dedicated to code, travel and bananas"               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    images               = ["tw.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Didac Bigorda"
 
 [[params.mainMenu]]
